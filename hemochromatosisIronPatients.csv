@@ -1,0 +1,515 @@
+"Series GSE121620 		Query DataSets for GSE121620
+Status 	Public on Dec 23, 2018
+Title 	Pheripheral blood cells expression data from 18 hemochromatosis patients, with various mutations for hemochromatosis, and 6 gender and aged matched healty controls.
+Organism 	Homo sapiens
+Experiment type 	Expression profiling by array
+Summary 	Using PAXgene tubes, pheripheral blood samples were colleted from 18 hemochromatosis patients. The patients were dividen into three groups; C282Y homozygotes with the highest measured serum Ferritin (SF) level below (group 1) or above (group 2) 1000 mikrog/L blood,
+and H63D homozygotes and/or H63D/C282Y heterozygotes (group 3). Expression profiles were compared with 6 gender and aged matched healthy controls (group 4).
+  	
+Overall design 	18 patients samples and 6 control samples were performed.",sample,sampleGivenName,Gender,Age,Group,,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient4
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 4
+gender: Man
+age: 40
+hh group: 3
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440208,blood_patient4,man,40,3,H63D homozygotes and/or H63D/C282Y heterozygotes,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient5
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 5
+gender: Man
+age: 48
+hh group: 2
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440209,blood_patient5,man,48,2,C282Y homozygotes above 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient8
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 8
+gender: Man
+age: 65
+hh group: 3
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440210,blood_patient8,man,65,3,H63D,homozygotes,and/or,H63D/C282Y,heterozygotes
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient10
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 10
+gender: Man
+age: 42
+hh group: 2
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.
+  	",GSM3440211,blood_patient10,man,42,2,C282Y homozygotes above 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient11
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 11
+gender: Man
+age: 45
+hh group: 3
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440212,blood_patient11,man,45,3,H63D,homozygotes,and/or,H63D/C282Y,heterozygotes
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient12
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 12
+gender: Man
+age: 46
+hh group: 3
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440213,blood_patient12,man,46,3,H63D,homozygotes,and/or,H63D/C282Y,heterozygotes
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient15
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 15
+gender: Women
+age: 64
+hh group: 3
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440214,blood_patient15,woman,64,3,H63D,homozygotes,and/or,H63D/C282Y,heterozygotes
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient16
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 16
+gender: Man
+age: 52
+hh group: 3
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440215,blood_patient16,man,52,3,H63D,homozygotes,and/or,H63D/C282Y,heterozygotes
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient17
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 17
+gender: Man
+age: 47
+hh group: 1
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440216,blood_patient17,man,47,1,C282Y homozygotes below 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient19
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 19
+gender: Women
+age: 51
+hh group: 2
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440217,blood_patient19,woman,51,2,C282Y homozygotes above 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient25
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 25
+gender: Man
+age: 44
+hh group: 1
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.
+  	",GSM3440218,blood_patient25,man,44,1,C282Y homozygotes below 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient26
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 26
+gender: Man
+age: 45
+hh group: 1
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440219,blood_patient26,man,45,1,C282Y homozygotes below 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient27
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 27
+gender: Man
+age: 41
+hh group: 1
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440220,blood_patient27,man,41,1,C282Y homozygotes below 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient28
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 28
+gender: Man
+age: 49
+hh group: 2
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440221,blood_patient28,man,49,2,C282Y homozygotes above 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient31
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 31
+gender: Women
+age: 43
+hh group: 1
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440222,blood_patient31,woman,43,1,C282Y homozygotes below 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient34
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 34
+gender: Women
+age: 59
+hh group: 2
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440223,blood_patient34,woman,59,2,C282Y homozygotes above 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient36
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 36
+gender: Women
+age: 45
+hh group: 1
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440224,blood_patient36,woman,45,1,C282Y homozygotes below 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient37
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 37
+gender: Man
+age: 51
+hh group: 2
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440225,blood_patient37,man,51,2,C282Y homozygotes above 1000/mikrog/L blood serrum ferritin,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient40
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 40
+gender: Man
+age: 46
+hh group: 4
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440226,blood_patient40,man,46,4,healthy control,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient47
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 47
+gender: Man
+age: 43
+hh group: 4
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440227,blood_patient47,man,43,4,healthy control,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient51
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 51
+gender: Man
+age: 49
+hh group: 4
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440228,blood_patient51,man,49,4,healthy control,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient53
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 53
+gender: Women
+age: 41
+hh group: 4
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440229,blood_patient53,woman,41,4,healthy control,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient55
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 55
+gender: Women
+age: 51
+hh group: 4
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440230,blood_patient55,woman,51,4,healthy control,,,,
+"Status 	Public on Dec 23, 2018
+Title 	blood_patient57
+Sample type 	RNA
+  	
+Source name 	Blood
+Organism 	Homo sapiens
+Characteristics 	tissue: Blood
+patient: 57
+gender: Man
+age: 52
+hh group: 4
+Treatment protocol 	Blood samples were collected with PAXgene Blood RNA tubes
+Growth protocol 	Pheripheral blood cells
+Extracted molecule 	total RNA
+Extraction protocol 	RNA extraction was performed with PAXgene Blood RNA kit according to manufactors instruction, and RNA quality assesed with Bioanalyzer
+Label 	biotin
+Label protocol 	Total RNA (150 ng) from each sample was prepared using the Ambion WT Expression Kit (Ambion Inc., Austin, Texas, USA) according to manufacturer?s instructions.
+  	
+Hybridization protocol 	Fragmented and labeled sense strand DNA was hybridized to the GeneChip Human Gene 2.0 ST Array (Affymetrix, Santa Clara, CA). The arrays were washed and stained using FS-450 fluidics station (Affymetrix.
+Scan protocol 	Fluorescent images were scanned by Hewlett Packard Gene Array Scanner 3000 7G (Hewlett Packard, Palo Alto, CA).The scanned images were then analyzed using Affymetrix GeneChip Command Console
+Data processing 	The CEL files were imported into Partek Genomics Suite software (Partek, Inc., St. Louis, MO). Robust microarray analysis (RMA) was applied for normalization.",GSM3440231,blood_patient57,man,52,4,healthy control,,,,
